@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="words">
+        <item>TECNOLOGICO</item>
+        <item>TOPICOS</item>
+        <item>PROGRAMACION</item>
+        <item>CUARENTENA</item>
+        <item>GARRAFON</item>
+        <item>WINDOWS</item>
+        <item>MAC</item>
+        <item>ANDROID</item>
+        <item>IPHONE</item>
+        <item>VIDEOJUEGOS</item>
+        <item>UNIDAD</item>
+        <item>JAVA</item>
+        <item>CARGADOR</item>
+        <item>CORONAVIRUS</item>
+        <item>COMIDA</item>
+    </string-array>
+</resources>
